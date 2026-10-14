@@ -1,0 +1,15 @@
+# Core PDF and Vision (Phase 0)
+pymupdf
+google-genai
+
+# LLMs and APIs
+groq
+python-dotenv
+
+# Text Splitter, Embeddings and Vector DB (Phase 1)
+langchain-text-splitters
+sentence-transformers
+chromadb
+
+# Web Interface
+streamlit

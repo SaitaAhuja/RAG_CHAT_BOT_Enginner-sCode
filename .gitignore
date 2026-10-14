@@ -1,0 +1,19 @@
+# Environment variables & secrets
+.env
+
+# Virtual environment
+venv/
+
+# Database / Vector store
+chroma_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
